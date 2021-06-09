@@ -60,7 +60,7 @@
 
 Navin Pemarathne - navin.pemarathne@gmail.com
 
-Project Link: [https://github.com/NavinYP/RedditScrapperBot](https://github.com/NavinYP/XPTtoCSV)
+Project Link: [https://github.com/NavinYP/XPTtoCSV](https://github.com/NavinYP/XPTtoCSV)
 
 
 
